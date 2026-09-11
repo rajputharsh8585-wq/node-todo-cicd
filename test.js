@@ -8,7 +8,7 @@ before(() => {
 });
 
 after(() => {
-	console.log( "This part executes once after all tests" );
+	console.log( "This part executes once after all the tests" );
 });
 	
 // We can add nested blocks for different tests
